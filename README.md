@@ -1,5 +1,7 @@
 # Portfolio — Bryan Hounang Petcheu
 
+🌐 **Voir le site : https://gerguinho.github.io/portfolio/**
+
 Mon site portfolio personnel. Il présente mon profil, mes projets, mes compétences et mon CV. Je l'ai entièrement développé moi-même et je le mets à jour au fil de mes nouveaux projets.
 
 **Technologies :** HTML5 · CSS3 · JavaScript · [Bulma](https://bulma.io/)
@@ -16,7 +18,7 @@ Mon site portfolio personnel. Il présente mon profil, mes projets, mes compéte
 ## Organisation
 
 ```
-Portfolio.html   Structure de la page
+index.html       Structure de la page
 Portfolio.css    Styles personnalisés (responsive)
 Portfolio.js     Rotation des photos de l'en-tête
 images/          Photos
@@ -25,7 +27,7 @@ CV-Bryan-Hounang-Petcheu.pdf
 
 ## Voir le site en local
 
-Clonez le dépôt, puis ouvrez `Portfolio.html` dans un navigateur.
+Clonez le dépôt, puis ouvrez `index.html` dans un navigateur.
 
 ## Contact
 
